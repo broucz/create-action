@@ -1,9 +1,9 @@
-# compose-single
+# create-action
 
-Composes single-argument functions from right to left.
+Create action utility.
 
 ```
-npm install @broucz/compose-single --save
+npm install @broucz/create-action --save
 ```
 
 Check `./test` for basic usage examples.
